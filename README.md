@@ -1,7 +1,3 @@
-### 📝 Project README: Multi-Process Battleship (Unix IPC)
-
-Copy and paste the content below into a `README.md` file in your repository.
-
 # Multi-Process Battleship (Unix IPC)
 
 A classic Battleship strategy game implemented in C++ that leverages **Linux System Programming** concepts. Unlike a standard terminal game, this project runs Player 1 and Player 2 as separate system processes that communicate in real-time using **Unix Pipes**.
