@@ -1,5 +1,5 @@
-#ifndef Q1_MESSAGE_H
-#define Q1_MESSAGE_H
+#ifndef UIHANDLER_H
+#define UIHANDLER_H
 
 #include <iostream>
 #include <string>

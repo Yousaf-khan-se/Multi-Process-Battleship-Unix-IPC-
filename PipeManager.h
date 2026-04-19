@@ -1,5 +1,5 @@
-#ifndef Q1_PROCESSCOMMUNICATION_H
-#define Q1_PROCESSCOMMUNICATION_H
+#ifndef PIPEMANAGER_H
+#define PIPEMANAGER_H
 
 #include <cstring>
 #include <iostream>

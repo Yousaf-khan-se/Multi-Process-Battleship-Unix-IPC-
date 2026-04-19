@@ -1,8 +1,8 @@
-#ifndef Q1_GAMEMENU_H
-#define Q1_GAMEMENU_H
+#ifndef GAMEMENU_H
+#define GAMEMENU_H
 
 #include <iostream>
-#include "Q1_Message.h"
+#include "UIHandler.h"
 
 using namespace std;
 

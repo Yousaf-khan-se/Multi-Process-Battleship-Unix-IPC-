@@ -10,10 +10,10 @@
 #include <unistd.h>
 #include <sstream>
 
-#include "Q1_GameBoard.h"
-#include "Q1_GameMenu.h"
-#include "Q1_Message.h"
-#include "Q1_ProcessCommunication.h"
+#include "GameBoard.h"
+#include "GameMenu.h"
+#include "UIHandler.h"
+#include "PipeManager.h"
 
 #define R 0
 #define W 1
